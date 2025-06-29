@@ -2,10 +2,11 @@
 
 project by: SmartInternz 
 Team Members:
-          Mudiyam Nithin Simha
-          Kummaripavan Kumar 
+          Mudiyam Nithin Simha,
+          Momin Shameem,
+          Kummaripavan Kumar, 
           B Ramcharan
-          Momin Shameem
+          
 
 Project Title: House Hunt-Finding your perfect Rental Home
 
